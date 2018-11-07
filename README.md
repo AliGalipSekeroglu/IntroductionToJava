@@ -8,5 +8,5 @@ Codes of projects :
 3-Calculating the total cost according to given distance and consumption of your car per km.                                            
 4-A program that reads an integer between 0 and 1000 and adds all the digits in the integer.                                    
 5-Compute area of a circle with console input by the user.                                                  
-6-A program that obtains minutes and seconds from seconds which user prompt.
+6-A program that obtains minutes and seconds from seconds which user prompt.                                                
 7-Switching values of two variables which are given by the user.                                                    
