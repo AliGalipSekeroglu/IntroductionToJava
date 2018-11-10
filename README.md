@@ -10,4 +10,6 @@ Examples :
 4-A program that reads an integer between 0 and 1000 and adds all the digits in the integer.                                    
 5-Compute area of a circle with console input by the user.                                                  
 6-A program that obtains minutes and seconds from seconds which user prompt.                                                
-7-Switching values of two variables which are given by the user.                                                    
+7-Switching values of two variables which are given by the user.                                            
+8-Calculating the given number's all digits by using do-while loop.                                                 
+9-Factorial in Java by using while and for loops.                                                           
