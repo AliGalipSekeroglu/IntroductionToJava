@@ -1,5 +1,6 @@
 # IntroductionToJava
-A repository for people who just start learning Java,simple examples and explanations. I am going to share my notes from two sources.First one is from Introduction to Java class from my university that we are following "Introduction to Java Programming",by Daniel Liang,10th edition (ISBN-10: 0133761312) as a book source,second one is a Java course from Udemy and HackerRank Java Examples.            
+A repository for people who just start learning Java,simple examples and explanations. I am going to share my notes from two sources.First one is from Introduction to Java class from my university that we are following "Introduction to Java Programming",by Daniel Liang,10th edition (ISBN-10: 0133761312) as a book source,second one is a Java course from Udemy and HackerRank Java Examples.
+
 This repository will be updated.
 
 
@@ -13,3 +14,4 @@ Examples :
 7-Switching values of two variables which are given by the user.                                            
 8-Calculating the given number's all digits by using do-while loop.                                                 
 9-Factorial in Java by using while and for loops.                                                           
+10-
