@@ -14,4 +14,4 @@ Examples :
 7-Switching values of two variables which are given by the user.                                            
 8-Calculating the given number's all digits by using do-while loop.                                                 
 9-Factorial in Java by using while and for loops.                                                           
-10-
+10-Creating random numbers and finding the months that random number matchs (switch-case)                                   
