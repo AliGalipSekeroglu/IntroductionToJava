@@ -15,5 +15,5 @@ Examples :
 8-Calculating the given number's all digits by using do-while loop.                                                 
 9-Factorial in Java by using while and for loops.                                                           
 10-Creating random numbers and finding the months that random number matchs (switch-case)                                   
-11-String operations (toUpperCase,toLowerCase,substring,charAt(ch)-- HackerRank)
+11-String operations (toUpperCase,toLowerCase,substring,charAt(ch)-- HackerRank)                                                        
 12-Guessing number between 1 and 100 with loops.                                                                                
