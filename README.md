@@ -17,4 +17,5 @@ Examples :
 10-Creating random numbers and finding the months that random number matchs (switch-case)                                   
 11-String operations (toUpperCase,toLowerCase,substring,charAt(ch)-- HackerRank)                                                        
 12-Guessing number between 1 and 100 with loops.                                                                                           
-13- Introduction to OOP concepts of Java.
+13- Introduction to OOP concepts of Java.                                   
+14- Opening Problem ( An Introduction to Java Programming book example)                                             
